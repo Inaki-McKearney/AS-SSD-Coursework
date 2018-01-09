@@ -1,0 +1,5 @@
+38,Anna
+95,John
+100,Inaki
+56,Bob
+95,Test
